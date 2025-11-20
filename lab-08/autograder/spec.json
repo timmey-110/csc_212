@@ -1,0 +1,49 @@
+[
+  {
+    "name": "mergesort",
+    "requirements": [
+      "mergesort.cpp"
+    ],
+    "dependencies": [
+      "mergesort.h",
+      "test_mergesort.cpp",
+      "doctest.h"
+    ],
+    "analysis": "mergesort.md"
+  },
+  {
+    "name": "quicksort",
+    "requirements": [
+      "quicksort.cpp"
+    ],
+    "dependencies": [
+      "quicksort.h",
+      "test_quicksort.cpp",
+      "doctest.h"
+    ],
+    "analysis": "quicksort.md"
+  },
+  {
+    "name": "customsort",
+    "requirements": [
+      "customsort.cpp"
+    ],
+    "dependencies": [
+      "customsort.h",
+      "test_customsort.cpp",
+      "doctest.h"
+    ],
+    "analysis": "customsort.md"
+  },
+  {
+    "name": "quicksort_median_pivot",
+    "requirements": [
+      "quicksort_median_pivot.cpp"
+    ],
+    "dependencies": [
+      "quicksort_median_pivot.h",
+      "test_quicksort_median_pivot.cpp",
+      "doctest.h"
+    ]
+  }
+]

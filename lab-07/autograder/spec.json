@@ -1,0 +1,62 @@
+[
+  {
+    "name": "playlist_period",
+    "requirements": [
+      "playlist_period.cpp"
+    ],
+    "dependencies": [
+      "playlist_period.h",
+      "test_playlist_period.cpp",
+      "doctest.h"
+    ],
+    "analysis": "playlist_period.md"
+  },
+  {
+    "name": "bug_bisect",
+    "requirements": [
+      "bug_bisect.cpp"
+    ],
+    "dependencies": [
+      "bug_bisect.h",
+      "test_bug_bisect.cpp",
+      "doctest.h"
+    ],
+    "analysis": "bug_bisect.md"
+  },
+  {
+    "name": "perfect_plunder",
+    "requirements": [
+      "perfect_plunder.cpp"
+    ],
+    "dependencies": [
+      "perfect_plunder.h",
+      "test_perfect_plunder.cpp",
+      "doctest.h"
+    ],
+    "analysis": "perfect_plunder.md"
+  },
+  {
+    "name": "genetic_gap",
+    "requirements": [
+      "genetic_gap.cpp"
+    ],
+    "dependencies": [
+      "genetic_gap.h",
+      "test_genetic_gap.cpp",
+      "doctest.h"
+    ],
+    "analysis": "genetic_gap.md"
+  },
+  {
+    "name": "strategic_silicon",
+    "requirements": [
+      "strategic_silicon.cpp"
+    ],
+    "dependencies": [
+      "strategic_silicon.h",
+      "test_strategic_silicon.cpp",
+      "doctest.h"
+    ],
+    "analysis": "strategic_silicon.md"
+  }
+]
