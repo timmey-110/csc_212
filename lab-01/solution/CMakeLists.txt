@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.10)
+project(csc212-lab-01)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(step step.cpp)
+add_executable(debug debug.cpp)
+add_executable(pointers pointers.cpp)
+add_executable(cstyle_arrays cstyle_arrays.cpp)
+add_executable(reverse reverse.cpp)
+add_executable(allocate allocate.cpp)
+add_executable(permute permute.cpp)
+add_executable(array array.cpp)
+add_executable(matrix matrix.cpp)
+add_executable(tensor tensor.cpp)

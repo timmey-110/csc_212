@@ -1,0 +1,10 @@
+A	Hello World!
+B 	Which is Greater?
+C 	Boat Parts
+D 	Compound Words
+E 	Shiritori
+F 	Recount
+G 	Conformity
+H 	Adding Words
+I 	Bard
+J 	Planets 

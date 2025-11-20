@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+project(csc212-lab-03)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(test_dynamic_array_gbo dynamic_array_gbo.cpp test_dynamic_array_gbo.cpp)
+add_executable(test_dynamic_array_gbd dynamic_array_gbd.cpp test_dynamic_array_gbd.cpp)
+add_executable(test_dynamic_array_gbf dynamic_array_gbf.cpp test_dynamic_array_gbf.cpp)
+add_executable(bench_dynamic_array_gbf dynamic_array_gbf.cpp bench_dynamic_array_gbf.cpp)
+add_executable(test_dynamic_array_de dynamic_array_de.cpp test_dynamic_array_de.cpp)

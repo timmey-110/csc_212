@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pseudoset",
+    "requirements": [
+      "pseudoset.h",
+      "pseudoset.cpp"
+    ],
+    "dependencies": [
+      "test_pseudoset.cpp",
+      "doctest.h"
+    ],
+    "analysis": "pseudoset.md"
+  },
+  {
+    "name": "set",
+    "requirements": [
+      "set.h",
+      "set.cpp"
+    ],
+    "dependencies": [
+      "test_set.cpp",
+      "doctest.h"
+    ],
+    "analysis": "set.md"
+  }
+]
