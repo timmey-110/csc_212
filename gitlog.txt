@@ -1,0 +1,170 @@
+commit 2f6d6422cf133f3b74898ae2d2ea0e1dda36c246 (HEAD -> main, origin/main, origin/HEAD, origin/39-review-2025-09-23, origin/32_lab_2, origin/32-lab-2, origin/31-practice-2025-09-18, origin/29-prepare-2025-09-23, 44-lab-3, 39-review-2025-09-23, 32_lab_2, 31-practice-2025-09-18)
+commit 2f6d6422cf133f3b74898ae2d2ea0e1dda36c246 (HEAD -> main, origin/main, origin/HEAD, origin/39-review-2025-09-23, origin/32_lab_2, origin/32-lab-2, origin/31-practice-2025-09-18, origin/29-prepare-2025-09-23, 44-lab-3, 39-review-2025-09-23, 32_lab_2, 31-practice-2025-09-18)
+Merge: c60a956 df33c73
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+    action updates
+Date:   Thu Sep 18 12:45:55 2025 -0400
+
+    Merge pull request #23 from compsys-progtools/deadline-labels
+
+commit df33c73fddac5b91d193b6eb8f02ca6111b854b4 (origin/deadline-labels)
+Author: Sarah M Brown <brownsarahm@uri.edu>
+
+    action updates
+
+Date:   Tue Sep 16 19:59:35 2025 -0400
+
+    add action for deadlines via labels
+
+commit df33c73fddac5b91d193b6eb8f02ca6111b854b4 (origin/deadline-labels)
+Author: Sarah M Brown <brownsarahm@uri.edu>
+Date:   Tue Sep 16 19:59:35 2025 -0400
+commit c60a956de947841c5182e5a031285ca21d79cb5b
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Tue Sep 16 13:24:35 2025 -0400
+
+    Create brain.md
+
+    summary of chapter on and its relation to me
+
+commit b6fcc732c6be8f95d0e313f40a8cdb5b6da3562c
+Author: oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 15 16:30:14 2025 -0400
+
+    notes on gitoffline that talks about diffeernces between git on bash and vscode terminal. gitcommit-tips talks about possible issues youd get while pushing to github
+
+commit 8e5ebf4a29abadcd9af90127ad24a014b65ea28f
+Merge: 6d3db62 1022627
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Tue Sep 9 13:33:18 2025 -0400
+
+    Merge pull request #2 from compsys-progtools/start-kwl
+
+    filled the know, want to know, and learned section
+
+commit 6d3db6290af7d5ac4b5368d11af2300639a9619c
+Merge: 36bafd9 c97c857
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 8 16:27:02 2025 -0400
+
+    Merge pull request #8 from compsys-progtools/timmey-110-patch-2
+
+    lab 0
+
+commit c97c85711c46d7283bf9db427c01c5d0605730cd (origin/timmey-110-patch-2)
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 8 16:12:34 2025 -0400
+
+    lab 0
+
+commit f65d2d352afb68b57f61ac3f5478b833fb9a0c87
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 8 16:11:19 2025 -0400
+
+    on 9/8/25 i completed lab 0 and added my score to the readme file
+
+
+    add action for deadlines via labels
+
+commit 1022627c2bdd38eec98854465a02809dbd5386ac (origin/start-kwl)
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Thu Sep 4 13:26:16 2025 -0400
+commit c60a956de947841c5182e5a031285ca21d79cb5b
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Tue Sep 16 13:24:35 2025 -0400
+
+    filled the know, want to know, and learned section
+
+    Create brain.md
+
+    summary of chapter on and its relation to me
+
+commit b6fcc732c6be8f95d0e313f40a8cdb5b6da3562c
+
+commit 36bafd9032cc27a1db920dd54b795dbf81885dd8
+Author: oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 15 16:30:14 2025 -0400
+
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Thu Sep 4 13:21:46 2025 -0400
+
+    Added my name
+
+commit a6d4cc90194daf4e1ca1bdcf9a5ca0c4cfa0bb63
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 4 17:02:46 2025 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit 76ec0bebb44196a7531ff474ebd13abace92ac35 (origin/feedback)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 4 17:02:46 2025 +0000
+
+    GitHub Classroom Feedback
+
+commit 1acb68bfcfa3a7c7158897f4159c57afce903143
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 4 14:48:51 2025 +0000
+
+    Initial commit
+    notes on gitoffline that talks about diffeernces between git on bash and vscode terminal. gitcommit-tips talks about possible issues youd get while pushing to github
+
+commit 8e5ebf4a29abadcd9af90127ad24a014b65ea28f
+Merge: 6d3db62 1022627
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Tue Sep 9 13:33:18 2025 -0400
+
+    Merge pull request #2 from compsys-progtools/start-kwl
+
+    filled the know, want to know, and learned section
+
+commit 6d3db6290af7d5ac4b5368d11af2300639a9619c
+Merge: 36bafd9 c97c857
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 8 16:27:02 2025 -0400
+
+    Merge pull request #8 from compsys-progtools/timmey-110-patch-2
+
+    lab 0
+
+commit c97c85711c46d7283bf9db427c01c5d0605730cd (origin/timmey-110-patch-2)
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 8 16:12:34 2025 -0400
+
+    lab 0
+
+commit f65d2d352afb68b57f61ac3f5478b833fb9a0c87
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Mon Sep 8 16:11:19 2025 -0400
+
+    on 9/8/25 i completed lab 0 and added my score to the readme file
+
+commit 1022627c2bdd38eec98854465a02809dbd5386ac (origin/start-kwl)
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Thu Sep 4 13:26:16 2025 -0400
+
+    filled the know, want to know, and learned section
+
+commit 36bafd9032cc27a1db920dd54b795dbf81885dd8
+Author: Oluwatimilehin Shodipe <oluwatimilehin.shodi@uri.edu>
+Date:   Thu Sep 4 13:21:46 2025 -0400
+
+    Added my name
+
+commit a6d4cc90194daf4e1ca1bdcf9a5ca0c4cfa0bb63
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 4 17:02:46 2025 +0000
+
+    Setting up GitHub Classroom Feedback
+
+commit 76ec0bebb44196a7531ff474ebd13abace92ac35 (origin/feedback)
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 4 17:02:46 2025 +0000
+
+    GitHub Classroom Feedback
+
+commit 1acb68bfcfa3a7c7158897f4159c57afce903143
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Thu Sep 4 14:48:51 2025 +0000
+
+    Initial commit
